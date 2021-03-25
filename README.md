@@ -1,2 +1,2 @@
-# class-38
+# INFINITE RUNNER GAME
 infinite runner game-1
